@@ -1,7 +1,7 @@
 # main text of home
 title: 신희상
-bio: 안녕하세요, 저는 신희상입니다.
-          저는 웹 개발자로서 백엔드 개발에 집중하고 있습니다.
+bio: <strong>안녕하세요, 저는 신희상입니다.</strong><strong>저는 웹 개발자로서 백엔드 개발에 집중하고 있습니다.</strong>
+          
 
 # twitter summary info
 description: A blog about technology and stuff related
